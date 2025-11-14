@@ -1,1 +1,5 @@
+CustomerID,CustomerName,Country
+C001,John Smith,USA
+C002,Maria Garcia,Canada
+C003,David Kim,USA
 
