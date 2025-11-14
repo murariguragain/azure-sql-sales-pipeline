@@ -1,4 +1,3 @@
-# azure-sql-sales-pipeline
 # azure-sql-sales-pipeline — Project scaffold
 
 This document contains a complete, ready-to-copy project scaffold for a **Sales Data ETL & Reporting Pipeline** that integrates **GitHub**, **Azure SQL Database**, and **Jira**. It includes folder structure, SQL scripts, a GitHub Actions workflow, sample data, `README.md`, and recommended Jira epics/stories/tasks.
