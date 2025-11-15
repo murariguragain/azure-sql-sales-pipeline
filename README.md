@@ -347,5 +347,6 @@ Sales Data ETL & Reporting Pipeline — sample project demonstrating integration
 * Add Azure Function to pick CSV from blob storage and push to staging
 
 ---
+Deployment test – CI/CD pipeline run
 
 *End of scaffold.*
